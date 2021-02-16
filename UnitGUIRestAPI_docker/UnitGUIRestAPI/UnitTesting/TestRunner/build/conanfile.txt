@@ -1,0 +1,12 @@
+[requires]
+poco/1.9.4
+
+#gtest/1.8.1
+
+[generators]
+cmake
+
+#poco:shared=True
+
+ [imports]
+ lib, *.a* -> ./bin # Copies all a files from packages lib folder to my "bin" folder

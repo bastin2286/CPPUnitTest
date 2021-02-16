@@ -1,0 +1,13 @@
+setPatientName,void,Bob,;Success
+getPatientName,string,;Bob
+setAge,void,25,;Success
+getAge,long,;25
+setGender,void,M,;Success
+getGender,char,;M
+setBatteryPercentage,void,75;Success
+getBatteryPercentage,double,;75.000000
+setBatteryPercentage,void,65.65;Success
+getBatteryPercentage,double,;65.650000
+setBatteryStatus,void,0,;Success
+getBatteryStatus,int,;0
+divide,double,10,15,;0.666667

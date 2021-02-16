@@ -1,0 +1,7 @@
+# Default configuration file -Comment line
+# csv path
+file1 =/src/jenkinsDocker/UnitGUIRestAPI/UnitTesting/TestRunner/test_inputs/ApiTestCase.csv
+file2 =/src/jenkinsDocker/UnitGUIRestAPI/UnitTesting/TestRunner/test_inputs/ApiTestCase1.csv
+file3 =/src/jenkinsDocker/UnitGUIRestAPI/UnitTesting/TestRunner/test_inputs/ClassTestDoctor.csv
+file4 =/src/jenkinsDocker/UnitGUIRestAPI/UnitTesting/TestRunner/test_inputs/ClassTestPatient.csv
+

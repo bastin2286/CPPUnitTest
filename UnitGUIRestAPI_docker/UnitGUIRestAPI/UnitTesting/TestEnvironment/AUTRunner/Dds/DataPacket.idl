@@ -1,0 +1,5 @@
+struct DataPacket
+{
+    unsigned long index;
+    string message;
+};

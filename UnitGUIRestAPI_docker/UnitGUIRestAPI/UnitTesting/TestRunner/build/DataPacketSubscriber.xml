@@ -1,0 +1,13 @@
+<staticdiscovery>
+	<participant>
+		<name>Server_Subscriber</name>
+		<reader>
+			<userId>3</userId>
+			<entityID>4</entityID>
+            <topicName>ResultCmd</topicName>
+			<topicDataType>DataPacket</topicDataType>
+			<topicKind>NO_KEY</topicKind>
+			<reliabilityQos>RELIABLE_RELIABILITY_QOS</reliabilityQos>
+		</reader>
+	</participant>
+</staticdiscovery>

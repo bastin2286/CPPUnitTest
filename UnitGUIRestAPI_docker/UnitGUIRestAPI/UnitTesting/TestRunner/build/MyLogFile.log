@@ -1,0 +1,1416 @@
+Fri Nov 13 16:29:17 2020  [DEBUG]: B4 T1 join:
+Fri Nov 13 16:29:17 2020  [INFO]: Starting subscriber.
+
+Fri Nov 13 16:29:17 2020  [INFO]: Starting:
+
+Fri Nov 13 16:29:17 2020  [INFO]: B4 Return all test;
+Fri Nov 13 16:29:17 2020  [INFO]: 10.10.196.130:5100
+Fri Nov 13 16:29:17 2020  [INFO]: 10.10.196.129 : 5100
+Fri Nov 13 16:29:17 2020  [DEBUG]: Came @ CSV_Test: 
+Fri Nov 13 16:29:17 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Fri Nov 13 16:29:17 2020  [DEBUG]: Reading CSV:
+Sat Nov 14 00:04:53 2020  [DEBUG]: B4 T1 join:
+Sat Nov 14 00:04:53 2020  [INFO]: Starting subscriber.
+
+Sat Nov 14 00:04:53 2020  [INFO]: B4 Return all test;
+Sat Nov 14 00:04:53 2020  [INFO]: 10.10.196.130:5100
+Sat Nov 14 00:04:53 2020  [INFO]: Starting:
+
+Sat Nov 14 00:04:53 2020  [INFO]: 10.10.196.129 : 5100
+Sat Nov 14 00:04:53 2020  [DEBUG]: Came @ CSV_Test: 
+Sat Nov 14 00:04:53 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Sat Nov 14 00:04:53 2020  [DEBUG]: Reading CSV:
+Sat Nov 14 00:04:53 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:04:53 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:04:53 2020  [DEBUG]: Ending the main
+Sat Nov 14 00:06:34 2020  [DEBUG]: B4 T1 join:
+Sat Nov 14 00:06:34 2020  [INFO]: Starting subscriber.
+
+Sat Nov 14 00:06:34 2020  [INFO]: Starting:
+
+Sat Nov 14 00:06:34 2020  [INFO]: B4 Return all test;
+Sat Nov 14 00:06:34 2020  [INFO]: 10.10.196.129 : 5100
+Sat Nov 14 00:06:34 2020  [INFO]: 10.10.196.130:5100
+Sat Nov 14 00:06:34 2020  [DEBUG]: Came @ CSV_Test: 
+Sat Nov 14 00:06:34 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Sat Nov 14 00:06:34 2020  [DEBUG]: Reading CSV:
+Sat Nov 14 00:06:34 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:06:34 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:06:34 2020  [DEBUG]: Ending the main
+Sat Nov 14 00:13:51 2020  [DEBUG]: B4 T1 join:
+Sat Nov 14 00:13:51 2020  [INFO]: Starting:
+
+Sat Nov 14 00:13:51 2020  [INFO]: B4 Return all test;
+Sat Nov 14 00:13:51 2020  [INFO]: 10.10.196.129 : 5100
+Sat Nov 14 00:13:51 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:13:51 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:13:51 2020  [INFO]: Starting subscriber.
+
+Sat Nov 14 00:13:51 2020  [INFO]: 10.10.196.130:5100
+Sat Nov 14 00:13:51 2020  [DEBUG]: Ending the main
+Sat Nov 14 00:17:07 2020  [DEBUG]: B4 T1 join:
+Sat Nov 14 00:17:07 2020  [INFO]: Starting subscriber.
+
+Sat Nov 14 00:17:07 2020  [INFO]: Starting:
+
+Sat Nov 14 00:17:07 2020  [INFO]: B4 Return all test;
+Sat Nov 14 00:17:07 2020  [INFO]: 10.10.196.130:5100
+Sat Nov 14 00:17:07 2020  [INFO]: 10.10.196.129 : 5100
+Sat Nov 14 00:17:07 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:17:07 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:17:07 2020  [DEBUG]: Ending the main
+Sat Nov 14 00:18:23 2020  [DEBUG]: B4 T1 join:
+Sat Nov 14 00:18:23 2020  [INFO]: B4 Return all test;
+Sat Nov 14 00:18:23 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:18:23 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:18:23 2020  [INFO]: Starting subscriber.
+
+Sat Nov 14 00:18:23 2020  [INFO]: 10.10.196.130:5100
+Sat Nov 14 00:18:23 2020  [INFO]: Starting:
+
+Sat Nov 14 00:18:23 2020  [INFO]: 10.10.196.129 : 5100
+Sat Nov 14 00:18:23 2020  [DEBUG]: Ending the main
+  [DEBUG]: B4 T1 join:
+Sat Nov 14 00:21:42 2020  [INFO]: Starting subscriber.
+
+Sat Nov 14 00:21:42 2020  [INFO]: B4 Return all test;
+Sat Nov 14 00:21:42 2020  [INFO]: 10.10.196.130:5100
+Sat Nov 14 00:21:42 2020  [INFO]: Starting:
+
+Sat Nov 14 00:21:42 2020  [INFO]: 10.10.196.129 : 5100
+Sat Nov 14 00:21:42 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:21:42 2020  [INFO]: B4 threads are joined
+Sat Nov 14 00:21:42 2020  [DEBUG]: Ending the main
+Tue Nov 17 10:18:14 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 10:18:14 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 10:18:14 2020  [INFO]: Starting:
+
+Tue Nov 17 10:18:14 2020  [INFO]: B4 Return all test;
+Tue Nov 17 10:18:14 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 10:18:14 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 10:18:14 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:18:14 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:18:14 2020  [DEBUG]: Ending the main
+Tue Nov 17 10:44:34 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 10:44:34 2020  [INFO]: Starting:
+
+Tue Nov 17 10:44:34 2020  [INFO]: B4 Return all test;
+Tue Nov 17 10:44:34 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 10:44:34 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 10:44:34 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 10:44:34 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 10:44:34 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Tue Nov 17 10:44:34 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 10:44:34 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:44:34 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:44:34 2020  [DEBUG]: Ending the main
+Tue Nov 17 10:48:25 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 10:48:25 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 10:48:25 2020  [INFO]: Starting:
+
+Tue Nov 17 10:48:25 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 10:48:25 2020  [INFO]: B4 Return all test;
+Tue Nov 17 10:48:25 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 10:48:25 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 10:48:25 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Tue Nov 17 10:48:25 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 10:48:25 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:48:25 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:48:25 2020  [DEBUG]: Ending the main
+Tue Nov 17 10:51:41 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 10:51:41 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 10:51:41 2020  [INFO]: B4 Return all test;
+Tue Nov 17 10:51:41 2020  [INFO]: Starting:
+
+Tue Nov 17 10:51:41 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 10:51:41 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 10:51:41 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 10:51:41 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Tue Nov 17 10:51:41 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 10:51:41 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:51:41 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:51:41 2020  [DEBUG]: Ending the main
+Tue Nov 17 10:52:36 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 10:52:36 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 10:52:36 2020  [INFO]: Starting:
+
+Tue Nov 17 10:52:36 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 10:52:36 2020  [INFO]: B4 Return all test;
+Tue Nov 17 10:52:36 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 10:52:36 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 10:52:36 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Tue Nov 17 10:52:36 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 10:52:36 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:52:36 2020  [INFO]: B4 threads are joined
+Tue Nov 17 10:52:36 2020  [DEBUG]: Ending the main
+Tue Nov 17 11:03:25 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 11:03:25 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 11:03:25 2020  [INFO]: Starting:
+
+Tue Nov 17 11:03:25 2020  [INFO]: B4 Return all test;
+Tue Nov 17 11:03:25 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 11:03:25 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 11:03:25 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 11:03:25 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Tue Nov 17 11:03:25 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 11:03:25 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:03:25 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:03:25 2020  [DEBUG]: Ending the main
+Tue Nov 17 11:04:33 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 11:04:33 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 11:04:33 2020  [INFO]: Starting:
+
+Tue Nov 17 11:04:33 2020  [INFO]: B4 Return all test;
+Tue Nov 17 11:04:33 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 11:04:33 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 11:04:33 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 11:04:33 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Tue Nov 17 11:04:33 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 11:04:33 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:04:33 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:04:33 2020  [DEBUG]: Ending the main
+Tue Nov 17 11:13:07 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 11:13:07 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 11:13:07 2020  [INFO]: Starting:
+
+Tue Nov 17 11:13:07 2020  [INFO]: B4 Return all test;
+Tue Nov 17 11:13:07 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 11:13:07 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 11:13:07 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 11:13:07 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Tue Nov 17 11:13:07 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 11:13:07 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:13:07 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:13:07 2020  [DEBUG]: Ending the main
+Tue Nov 17 11:16:30 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 11:16:30 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 11:16:30 2020  [INFO]: Starting:
+
+Tue Nov 17 11:16:30 2020  [INFO]: B4 Return all test;
+Tue Nov 17 11:16:30 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 11:16:30 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 11:16:30 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 11:16:30 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Tue Nov 17 11:16:30 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 11:16:30 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:16:30 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:16:30 2020  [DEBUG]: Ending the main
+Tue Nov 17 11:51:20 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 11:51:20 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 11:51:20 2020  [INFO]: B4 Return all test;
+Tue Nov 17 11:51:20 2020  [INFO]: Starting:
+
+Tue Nov 17 11:51:20 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 11:51:20 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 11:51:20 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 11:51:20 2020  [ERROR]: /home/bastin/UnitGUIRestAPI/UnitGUIRestAPI/UnitTesting/TestRunner/Testcase/ cannot open : LOG_ERROR
+Tue Nov 17 11:51:20 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 11:51:20 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:51:20 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:51:20 2020  [DEBUG]: Ending the main
+Tue Nov 17 11:57:57 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 11:57:57 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 11:57:57 2020  [INFO]: B4 Return all test;
+Tue Nov 17 11:57:57 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 11:57:57 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 11:57:57 2020  [INFO]: Starting:
+
+Tue Nov 17 11:57:57 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 11:57:57 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 11:57:57 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:57:57 2020  [INFO]: B4 threads are joined
+Tue Nov 17 11:57:58 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:00:33 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:00:33 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:00:33 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:00:33 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:00:33 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:00:33 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:00:33 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:00:33 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:00:33 2020  [INFO]: Starting:
+
+Tue Nov 17 12:00:33 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:00:33 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:02:34 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:02:34 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:02:34 2020  [INFO]: Starting:
+
+Tue Nov 17 12:02:34 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:02:34 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:02:34 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:02:34 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:02:34 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:02:34 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:02:34 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:02:34 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:04:56 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:04:56 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:04:56 2020  [INFO]: Starting:
+
+Tue Nov 17 12:04:56 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:04:56 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:04:56 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:04:56 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:04:56 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:04:56 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:04:56 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:04:56 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:06:10 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:06:10 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:06:10 2020  [INFO]: Starting:
+
+Tue Nov 17 12:06:10 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:06:10 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:06:10 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:06:10 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:06:10 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:06:10 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:06:10 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:06:10 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:10:57 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:10:57 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:10:57 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:10:57 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:10:57 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:10:57 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:10:57 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 12:10:57 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 12:10:57 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 12:10:57 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 12:10:57 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 12:10:57 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 12:10:57 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 12:10:57 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 12:10:57 2020  [INFO]: Starting:
+
+Tue Nov 17 12:10:57 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:12:23 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:12:23 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:12:23 2020  [INFO]: Starting:
+
+Tue Nov 17 12:12:23 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:12:23 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:12:23 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:12:23 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:12:23 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:12:23 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:12:23 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:12:23 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:13:02 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:13:02 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:13:02 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:13:02 2020  [INFO]: Starting:
+
+Tue Nov 17 12:13:02 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:13:02 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:13:02 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:13:02 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:13:02 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:13:02 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:13:02 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:14:42 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:14:42 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:14:42 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:14:42 2020  [INFO]: Starting:
+
+Tue Nov 17 12:14:42 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:14:42 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:14:42 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:14:42 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:14:42 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:14:42 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:14:43 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:15:49 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:15:49 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:15:49 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:15:49 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:15:49 2020  [INFO]: Starting:
+
+Tue Nov 17 12:15:49 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:15:49 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:15:49 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:15:49 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:15:49 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:15:49 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:17:21 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:17:21 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:17:21 2020  [INFO]: Starting:
+
+Tue Nov 17 12:17:21 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:17:21 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:17:21 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:17:21 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:17:21 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:17:21 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:17:21 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:17:21 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:18:36 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:18:36 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:18:36 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:18:36 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:18:36 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:18:36 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:18:36 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:18:36 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:18:36 2020  [INFO]: Starting:
+
+Tue Nov 17 12:18:36 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:18:36 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:24:29 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:24:29 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:24:29 2020  [INFO]: Starting:
+
+Tue Nov 17 12:24:29 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:24:29 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:24:29 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:24:29 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:24:29 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:24:29 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:24:29 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:24:29 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:26:06 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:26:06 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:26:06 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:26:06 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:26:06 2020  [INFO]: Starting:
+
+Tue Nov 17 12:26:06 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:26:06 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:26:06 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:26:06 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:26:06 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:26:06 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:45:38 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:45:38 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:45:38 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:45:38 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:45:38 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:45:38 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:45:38 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:45:38 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:45:38 2020  [INFO]: Starting:
+
+Tue Nov 17 12:45:38 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:45:38 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:46:54 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:46:54 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:46:54 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:46:54 2020  [INFO]: Starting:
+
+Tue Nov 17 12:46:54 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:46:54 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:46:54 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:46:54 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:46:54 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:46:54 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:46:54 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:47:32 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:47:32 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:47:32 2020  [INFO]: Starting:
+
+Tue Nov 17 12:47:32 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:47:32 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:47:32 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:47:32 2020  [ERROR]: /home/sachin/dfiles/dockerJenkins/UnitGUIRestAPI/UnitTesting/TestRunner/TestInputs../TestInputs/ApiTestCase.csv cannot open : LOG_ERROR
+Tue Nov 17 12:47:32 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:47:32 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:47:32 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:47:32 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:47:32 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:48:26 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:48:26 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:48:26 2020  [INFO]: Starting:
+
+Tue Nov 17 12:48:26 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:48:26 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:48:26 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:48:26 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:48:26 2020  [ERROR]: /home/sachin/dfiles/dockerJenkins/UnitGUIRestAPI/UnitTesting/TestRunner/TestInputsApiTestCase.csv cannot open : LOG_ERROR
+Tue Nov 17 12:48:26 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:48:26 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:48:26 2020  [INFO]: B4 threads are joined
+Tue Nov 17 12:48:26 2020  [DEBUG]: Ending the main
+Tue Nov 17 12:52:35 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:52:35 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:52:35 2020  [INFO]: Starting:
+
+Tue Nov 17 12:52:35 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:52:35 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:52:35 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:52:35 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:52:35 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:52:35 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 12:52:35 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 12:52:35 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 12:52:35 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 12:52:35 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 12:52:35 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 12:52:35 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 12:52:35 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 12:54:16 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:54:16 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:54:16 2020  [INFO]: Starting:
+
+Tue Nov 17 12:54:16 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:54:16 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:54:16 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:54:16 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:54:16 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:54:16 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 12:54:16 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 12:54:16 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 12:54:16 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 12:54:16 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 12:54:16 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 12:54:16 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 12:54:16 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 12:56:58 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:56:58 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:56:58 2020  [INFO]: Starting:
+
+Tue Nov 17 12:56:58 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:56:58 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:56:58 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:56:58 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:56:58 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:56:58 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 12:56:58 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 12:56:58 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 12:56:58 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 12:56:58 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 12:56:58 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 12:56:58 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 12:56:58 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 12:58:17 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 12:58:17 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 12:58:17 2020  [INFO]: Starting:
+
+Tue Nov 17 12:58:17 2020  [INFO]: B4 Return all test;
+Tue Nov 17 12:58:17 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 12:58:17 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 12:58:17 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 12:58:17 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 12:58:17 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 12:58:17 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 12:58:17 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 12:58:17 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 12:58:17 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 12:58:17 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 12:58:17 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 12:58:17 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 13:00:45 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 13:00:45 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 13:00:45 2020  [INFO]: B4 Return all test;
+Tue Nov 17 13:00:45 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 13:00:45 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 13:00:45 2020  [INFO]: Starting:
+
+Tue Nov 17 13:00:45 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 13:00:45 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 13:00:45 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 13:00:45 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 13:00:45 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 13:00:45 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 13:00:45 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 13:00:45 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 13:00:45 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 13:00:45 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 13:18:28 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 13:18:28 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 13:18:28 2020  [INFO]: Starting:
+
+Tue Nov 17 13:18:28 2020  [INFO]: 10.10.196.130:5100
+Tue Nov 17 13:18:28 2020  [INFO]: B4 Return all test;
+Tue Nov 17 13:18:28 2020  [INFO]: 10.10.196.129 : 5100
+Tue Nov 17 13:18:28 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 13:18:28 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 13:18:28 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 13:18:28 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 13:18:28 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 13:18:28 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 13:18:28 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 13:18:28 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 13:18:28 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 13:18:28 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 14:07:25 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 14:07:25 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 14:07:25 2020  [INFO]: Starting:
+
+Tue Nov 17 14:07:25 2020  [INFO]: B4 Return all test;
+Tue Nov 17 14:07:25 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 17 14:07:25 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 17 14:07:25 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 14:07:25 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 14:07:25 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 14:07:25 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 14:07:25 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 14:07:25 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 14:07:25 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 14:07:25 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 14:07:25 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 14:07:25 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 14:09:41 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Tue Nov 17 14:09:42 2020  [INFO]: Message: add double 10 15  with index: 1 SENT
+Tue Nov 17 14:09:49 2020  [INFO]: Subscriber matched.
+Tue Nov 17 14:09:50 2020  [INFO]: Message: Fail with index: 1 RECEIVED.
+Tue Nov 17 14:09:50 2020  [INFO]: B4 threads are joined
+Tue Nov 17 14:09:50 2020  [INFO]: B4 threads are joined
+Tue Nov 17 14:11:31 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 14:11:31 2020  [INFO]: B4 Return all test;
+Tue Nov 17 14:11:31 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 14:11:31 2020  [INFO]: Starting:
+
+Tue Nov 17 14:11:31 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 14:11:31 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 17 14:11:31 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 17 14:11:31 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 14:11:31 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 14:11:31 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 14:11:31 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 14:11:31 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 14:11:31 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 14:11:31 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 14:11:31 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 14:11:31 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 14:11:34 2020  [INFO]: Subscriber matched.
+Tue Nov 17 14:11:34 2020  [INFO]: Message: Fail with index: 1 RECEIVED.
+Tue Nov 17 14:11:34 2020  [INFO]: B4 threads are joined
+Tue Nov 17 14:11:34 2020  [INFO]: B4 threads are joined
+Tue Nov 17 14:11:35 2020  [DEBUG]: Ending the main
+Tue Nov 17 14:12:07 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 14:12:07 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 14:12:07 2020  [INFO]: Starting:
+
+Tue Nov 17 14:12:07 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 17 14:12:07 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 17 14:12:07 2020  [INFO]: B4 Return all test;
+Tue Nov 17 14:12:07 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 14:12:07 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 14:12:07 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 14:12:07 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 14:12:07 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 14:12:07 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 14:12:07 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 14:12:07 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 14:12:07 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 14:12:07 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 14:12:11 2020  [INFO]: Subscriber matched.
+Tue Nov 17 14:12:18 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Tue Nov 17 14:12:19 2020  [INFO]: Message: add double 10 15  with index: 1 SENT
+Tue Nov 17 14:12:20 2020  [INFO]: Message: Fail with index: 1 RECEIVED.
+Tue Nov 17 14:12:20 2020  [INFO]: B4 threads are joined
+Tue Nov 17 14:12:20 2020  [INFO]: B4 threads are joined
+Tue Nov 17 14:12:21 2020  [DEBUG]: Ending the main
+Tue Nov 17 17:13:06 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 17:13:06 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 17:13:06 2020  [INFO]: B4 Return all test;
+Tue Nov 17 17:13:06 2020  [INFO]: Starting:
+
+Tue Nov 17 17:13:06 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 17 17:13:06 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 17 17:13:06 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 17:13:06 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 17:13:06 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 17:13:06 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 17:13:06 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 17:13:06 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 17:13:06 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 17:13:06 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 17:13:06 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 17:13:06 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 17:13:08 2020  [INFO]: Subscriber matched.
+Tue Nov 17 17:13:17 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Tue Nov 17 17:13:18 2020  [INFO]: Message: add double 10 15  with index: 1 SENT
+Tue Nov 17 17:13:18 2020  [INFO]: Message: 25.000000 with index: 1 RECEIVED.
+Tue Nov 17 17:13:19 2020  [INFO]: Message: subtract double 10 15  with index: 2 SENT
+Tue Nov 17 17:13:19 2020  [INFO]: Message: -5.000000 with index: 2 RECEIVED.
+Tue Nov 17 17:13:20 2020  [INFO]: Message: multiply double 10 15  with index: 3 SENT
+Tue Nov 17 17:13:20 2020  [INFO]: Message: 150.000000 with index: 3 RECEIVED.
+Tue Nov 17 17:13:21 2020  [INFO]: Message: divide double 10 15  with index: 4 SENT
+Tue Nov 17 17:13:21 2020  [INFO]: Message: 0.666667 with index: 4 RECEIVED.
+Tue Nov 17 17:13:21 2020  [INFO]: B4 threads are joined
+Tue Nov 17 17:13:21 2020  [INFO]: B4 threads are joined
+Tue Nov 17 17:13:22 2020  [DEBUG]: Ending the main
+Tue Nov 17 18:01:52 2020  [INFO]: Starting subscriber.
+
+Tue Nov 17 18:01:52 2020  [DEBUG]: B4 T1 join:
+Tue Nov 17 18:01:52 2020  [INFO]: Starting:
+
+Tue Nov 17 18:01:52 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 17 18:01:52 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 17 18:01:52 2020  [INFO]: B4 Return all test;
+Tue Nov 17 18:01:52 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 17 18:01:52 2020  [DEBUG]: Reading CSV:
+Tue Nov 17 18:01:52 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Tue Nov 17 18:01:52 2020  [DEBUG]: 25.000000: LHS
+Tue Nov 17 18:01:52 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Tue Nov 17 18:01:52 2020  [DEBUG]: -5.000000: LHS
+Tue Nov 17 18:01:52 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Tue Nov 17 18:01:52 2020  [DEBUG]: 150.000000: LHS
+Tue Nov 17 18:01:52 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Tue Nov 17 18:01:52 2020  [DEBUG]: 0.666667: LHS
+Tue Nov 17 18:02:17 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Tue Nov 17 18:02:18 2020  [INFO]: Message: add double 10 15  with index: 1 SENT
+Tue Nov 17 18:02:25 2020  [INFO]: Subscriber matched.
+Tue Nov 17 18:02:26 2020  [INFO]: Message: 25.000000 with index: 1 RECEIVED.
+Tue Nov 17 18:02:26 2020  [INFO]: Message: subtract double 10 15  with index: 2 SENT
+Tue Nov 17 18:02:27 2020  [INFO]: Message: -5.000000 with index: 2 RECEIVED.
+Tue Nov 17 18:02:27 2020  [INFO]: Message: multiply double 10 15  with index: 3 SENT
+Tue Nov 17 18:02:28 2020  [INFO]: Message: 150.000000 with index: 3 RECEIVED.
+Tue Nov 17 18:02:28 2020  [INFO]: Message: divide double 10 15  with index: 4 SENT
+Tue Nov 17 18:02:29 2020  [INFO]: Message: 0.666667 with index: 4 RECEIVED.
+Tue Nov 17 18:02:29 2020  [INFO]: B4 threads are joined
+Tue Nov 17 18:02:29 2020  [INFO]: B4 threads are joined
+Tue Nov 17 18:02:30 2020  [DEBUG]: Ending the main
+Wed Nov 18 22:55:46 2020  [DEBUG]: B4 T1 join:
+Wed Nov 18 22:55:46 2020  [INFO]: Starting subscriber.
+
+Wed Nov 18 22:55:46 2020  [INFO]: Starting:
+
+Wed Nov 18 22:55:46 2020  [INFO]: B4 Return all test;
+Wed Nov 18 22:55:46 2020  [INFO]: 192.168.43.144:5000
+Wed Nov 18 22:55:46 2020  [INFO]: 192.168.43.144 : 5100
+Wed Nov 18 22:55:46 2020  [DEBUG]: Came @ CSV_Test: 
+Wed Nov 18 22:55:46 2020  [DEBUG]: Reading CSV:
+Wed Nov 18 22:55:46 2020  [INFO]: B4 threads are joined
+Wed Nov 18 22:55:46 2020  [INFO]: B4 threads are joined
+Wed Nov 18 22:55:46 2020  [DEBUG]: Ending the main
+Wed Nov 18 22:58:46 2020  [INFO]: Starting subscriber.
+
+Wed Nov 18 22:58:46 2020  [DEBUG]: B4 T1 join:
+Wed Nov 18 22:58:46 2020  [INFO]: B4 Return all test;
+Wed Nov 18 22:58:46 2020  [INFO]: 192.168.43.144:5000
+Wed Nov 18 22:58:46 2020  [DEBUG]: Came @ CSV_Test: 
+Wed Nov 18 22:58:46 2020  [ERROR]: /home/sachin/dfiles/dockerJenkins/UnitGUIRestAPI/UnitTesting/TestRunner/TestInputs//home/sachin/dfiles/dockerJenkins/UnitGUIRestAPI/UnitTesting/TestRunner/TestInputs/ApiTestCase.csv cannot open : LOG_ERROR
+Wed Nov 18 22:58:46 2020  [DEBUG]: Reading CSV:
+Wed Nov 18 22:58:46 2020  [INFO]: B4 threads are joined
+Wed Nov 18 22:58:46 2020  [INFO]: B4 threads are joined
+Wed Nov 18 22:58:46 2020  [INFO]: Starting:
+
+Wed Nov 18 22:58:46 2020  [INFO]: 192.168.43.144 : 5100
+Wed Nov 18 22:58:46 2020  [DEBUG]: Ending the main
+Wed Nov 18 23:02:43 2020  [DEBUG]: B4 T1 join:
+Wed Nov 18 23:02:43 2020  [INFO]: B4 Return all test;
+Wed Nov 18 23:02:43 2020  [INFO]: Starting subscriber.
+
+Wed Nov 18 23:02:43 2020  [DEBUG]: Came @ CSV_Test: 
+Wed Nov 18 23:02:43 2020  [ERROR]: /home/sachin/dfiles/dockerJenkins/UnitGUIRestAPI/UnitTesting/TestRunner/TestInputs//home/sachin/dfiles/dockerJenkins/UnitGUIRestAPI/UnitTesting/TestRunner/TestInputs/ApiTestCase.csv cannot open : LOG_ERROR
+Wed Nov 18 23:02:43 2020  [INFO]: 192.168.43.144:5000
+Wed Nov 18 23:02:43 2020  [INFO]: Starting:
+
+Wed Nov 18 23:02:43 2020  [DEBUG]: Reading CSV:
+Wed Nov 18 23:02:43 2020  [INFO]: B4 threads are joined
+Wed Nov 18 23:02:43 2020  [INFO]: B4 threads are joined
+Wed Nov 18 23:02:43 2020  [INFO]: 192.168.43.144 : 5100
+Wed Nov 18 23:02:43 2020  [DEBUG]: Ending the main
+Wed Nov 18 23:06:07 2020  [DEBUG]: B4 T1 join:
+Wed Nov 18 23:06:07 2020  [INFO]: Starting subscriber.
+
+Wed Nov 18 23:06:07 2020  [INFO]: Starting:
+
+Wed Nov 18 23:06:07 2020  [INFO]: B4 Return all test;
+Wed Nov 18 23:06:07 2020  [INFO]: 192.168.43.144 : 5100
+Wed Nov 18 23:06:07 2020  [DEBUG]: Came @ CSV_Test: 
+Wed Nov 18 23:06:07 2020  [ERROR]: /home/sachin/dfiles/dockerJenkins/UnitGUIRestAPI/UnitTesting/TestRunner/TestInputs//home/sachin/dfiles/dockerJenkins/UnitGUIRestAPI/UnitTesting/TestRunner/TestInputs/ApiTestCase.csv cannot open : LOG_ERROR
+Wed Nov 18 23:06:07 2020  [DEBUG]: Reading CSV:
+Wed Nov 18 23:06:07 2020  [INFO]: B4 threads are joined
+Wed Nov 18 23:06:07 2020  [INFO]: B4 threads are joined
+Wed Nov 18 23:06:07 2020  [INFO]: 192.168.43.144:5000
+Wed Nov 18 23:06:07 2020  [DEBUG]: Ending the main
+Wed Nov 18 23:13:35 2020  [DEBUG]: B4 T1 join:
+Wed Nov 18 23:13:35 2020  [INFO]: B4 Return all test;
+Wed Nov 18 23:13:35 2020  [DEBUG]: Came @ CSV_Test: 
+Wed Nov 18 23:13:35 2020  [INFO]: Starting:
+
+Wed Nov 18 23:13:35 2020  [INFO]: 192.168.43.144 : 5100
+Wed Nov 18 23:13:35 2020  [INFO]: Starting subscriber.
+
+Wed Nov 18 23:13:35 2020  [INFO]: 192.168.43.144:5000
+Wed Nov 18 23:13:35 2020  [DEBUG]: Reading CSV:
+Wed Nov 18 23:13:35 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Wed Nov 18 23:13:35 2020  [DEBUG]: 25.000000: LHS
+Wed Nov 18 23:13:35 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Wed Nov 18 23:13:35 2020  [DEBUG]: -5.000000: LHS
+Wed Nov 18 23:13:35 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Wed Nov 18 23:13:35 2020  [DEBUG]: 150.000000: LHS
+Wed Nov 18 23:13:35 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Wed Nov 18 23:13:35 2020  [DEBUG]: 0.666667: LHS
+Thu Nov 19 12:20:24 2020  [DEBUG]: B4 T1 join:
+Thu Nov 19 12:20:24 2020  [INFO]: Starting subscriber.
+
+Thu Nov 19 12:20:24 2020  [INFO]: Starting:
+
+Thu Nov 19 12:20:24 2020  [INFO]: B4 Return all test;
+Thu Nov 19 12:20:24 2020  [INFO]: 192.168.43.144 : 5100
+Thu Nov 19 12:20:24 2020  [INFO]: 192.168.43.144:5000
+Thu Nov 19 12:20:24 2020  [DEBUG]: Came @ CSV_Test: 
+Thu Nov 19 12:20:24 2020  [DEBUG]: Reading CSV:
+Thu Nov 19 12:20:24 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Thu Nov 19 12:20:24 2020  [DEBUG]: 25.000000: LHS
+Thu Nov 19 12:20:24 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Thu Nov 19 12:20:24 2020  [DEBUG]: -5.000000: LHS
+Thu Nov 19 12:20:24 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Thu Nov 19 12:20:24 2020  [DEBUG]: 150.000000: LHS
+Thu Nov 19 12:20:24 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Thu Nov 19 12:20:24 2020  [DEBUG]: 0.666667: LHS
+Thu Nov 19 12:26:44 2020  [DEBUG]: B4 T1 join:
+Thu Nov 19 12:26:44 2020  [INFO]: Starting subscriber.
+
+Thu Nov 19 12:26:44 2020  [INFO]: B4 Return all test;
+Thu Nov 19 12:26:44 2020  [INFO]: Starting:
+
+Thu Nov 19 12:26:44 2020  [INFO]: 192.168.43.144:5000
+Thu Nov 19 12:26:44 2020  [DEBUG]: Came @ CSV_Test: 
+Thu Nov 19 12:26:44 2020  [INFO]: 192.168.43.144 : 5100
+Thu Nov 19 12:26:44 2020  [DEBUG]: Reading CSV:
+Thu Nov 19 12:26:44 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Thu Nov 19 12:26:44 2020  [DEBUG]: 25.000000: LHS
+Thu Nov 19 12:26:44 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Thu Nov 19 12:26:44 2020  [DEBUG]: -5.000000: LHS
+Thu Nov 19 12:26:44 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Thu Nov 19 12:26:44 2020  [DEBUG]: 150.000000: LHS
+Thu Nov 19 12:26:44 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Thu Nov 19 12:26:44 2020  [DEBUG]: 0.666667: LHS
+Thu Nov 19 12:47:55 2020  [DEBUG]: B4 T1 join:
+Thu Nov 19 12:47:55 2020  [INFO]: Starting subscriber.
+
+Thu Nov 19 12:47:55 2020  [INFO]: Starting:
+
+Thu Nov 19 12:47:55 2020  [INFO]: B4 Return all test;
+Thu Nov 19 12:47:55 2020  [INFO]: 192.168.43.144 : 5100
+Thu Nov 19 12:47:55 2020  [INFO]: 192.168.43.144:5000
+Thu Nov 19 12:47:55 2020  [DEBUG]: Came @ CSV_Test: 
+Thu Nov 19 12:47:55 2020  [DEBUG]: Reading CSV:
+Thu Nov 19 12:47:55 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Thu Nov 19 12:47:55 2020  [DEBUG]: 25.000000: LHS
+Thu Nov 19 12:47:55 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Thu Nov 19 12:47:55 2020  [DEBUG]: -5.000000: LHS
+Thu Nov 19 12:47:55 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Thu Nov 19 12:47:55 2020  [DEBUG]: 150.000000: LHS
+Thu Nov 19 12:47:55 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Thu Nov 19 12:47:55 2020  [DEBUG]: 0.666667: LHS
+Thu Nov 19 12:49:43 2020  [DEBUG]: B4 T1 join:
+Thu Nov 19 12:49:43 2020  [INFO]: Starting:
+
+Thu Nov 19 12:49:43 2020  [INFO]: B4 Return all test;
+Thu Nov 19 12:49:43 2020  [INFO]: 192.168.43.144 : 5100
+Thu Nov 19 12:49:43 2020  [INFO]: Starting subscriber.
+
+Thu Nov 19 12:49:43 2020  [DEBUG]: Came @ CSV_Test: 
+Thu Nov 19 12:49:43 2020  [DEBUG]: Reading CSV:
+Thu Nov 19 12:49:43 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Thu Nov 19 12:49:43 2020  [DEBUG]: 25.000000: LHS
+Thu Nov 19 12:49:43 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Thu Nov 19 12:49:43 2020  [DEBUG]: -5.000000: LHS
+Thu Nov 19 12:49:43 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Thu Nov 19 12:49:43 2020  [DEBUG]: 150.000000: LHS
+Thu Nov 19 12:49:43 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Thu Nov 19 12:49:43 2020  [DEBUG]: 0.666667: LHS
+Thu Nov 19 12:49:43 2020  [INFO]: 192.168.43.144:5000
+Thu Nov 19 12:50:18 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Thu Nov 19 12:50:19 2020  [INFO]: Message: add double 10 15  with index: 1 SENT
+Thu Nov 19 12:50:25 2020  [INFO]: Subscriber matched.
+Thu Nov 19 12:50:27 2020  [INFO]: Message: 25.000000 with index: 1 RECEIVED.
+Thu Nov 19 12:50:28 2020  [INFO]: Message: subtract double 10 15  with index: 2 SENT
+Thu Nov 19 12:50:29 2020  [INFO]: Message: -5.000000 with index: 2 RECEIVED.
+Thu Nov 19 12:50:30 2020  [INFO]: Message: multiply double 10 15  with index: 3 SENT
+Thu Nov 19 12:50:31 2020  [INFO]: Message: 150.000000 with index: 3 RECEIVED.
+Thu Nov 19 12:50:32 2020  [INFO]: Message: divide double 10 15  with index: 4 SENT
+Thu Nov 19 12:50:33 2020  [INFO]: Message: 0.666667 with index: 4 RECEIVED.
+Thu Nov 19 12:50:33 2020  [INFO]: Publisher unmatched.: LOG_INFO
+
+Thu Nov 19 12:50:33 2020  [INFO]: B4 threads are joined
+Thu Nov 19 12:50:33 2020  [INFO]: B4 threads are joined
+Thu Nov 19 12:50:34 2020  [DEBUG]: Ending the main
+Thu Nov 19 15:52:54 2020  [INFO]: Starting subscriber.
+
+Thu Nov 19 15:52:54 2020  [DEBUG]: B4 T1 join:
+Thu Nov 19 15:52:54 2020  [INFO]: Starting:
+
+Thu Nov 19 15:52:54 2020  [INFO]: B4 Return all test;
+Thu Nov 19 15:52:54 2020  [INFO]: 192.168.43.144:5000
+Thu Nov 19 15:52:54 2020  [INFO]: 192.168.43.144 : 5100
+Thu Nov 19 15:52:54 2020  [DEBUG]: Came @ CSV_Test: 
+Thu Nov 19 15:52:54 2020  [DEBUG]: Reading CSV:
+Thu Nov 19 15:52:54 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Thu Nov 19 15:52:54 2020  [DEBUG]: 25.000000: LHS
+Thu Nov 19 15:52:54 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Thu Nov 19 15:52:54 2020  [DEBUG]: -5.000000: LHS
+Thu Nov 19 15:52:54 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Thu Nov 19 15:52:54 2020  [DEBUG]: 150.000000: LHS
+Thu Nov 19 15:52:54 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Thu Nov 19 15:52:54 2020  [DEBUG]: 0.666667: LHS
+Thu Nov 19 16:21:05 2020  [DEBUG]: B4 T1 join:
+Thu Nov 19 16:21:05 2020  [INFO]: Starting subscriber.
+
+Thu Nov 19 16:21:05 2020  [INFO]: Starting:
+
+Thu Nov 19 16:21:05 2020  [INFO]: B4 Return all test;
+Thu Nov 19 16:21:05 2020  [INFO]: 192.168.43.144 : 5100
+Thu Nov 19 16:21:05 2020  [INFO]: 192.168.43.144:5000
+Thu Nov 19 16:21:05 2020  [DEBUG]: Came @ CSV_Test: 
+Thu Nov 19 16:21:05 2020  [DEBUG]: Reading CSV:
+Thu Nov 19 16:21:05 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Thu Nov 19 16:21:05 2020  [DEBUG]: 25.000000: LHS
+Thu Nov 19 16:21:05 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Thu Nov 19 16:21:05 2020  [DEBUG]: -5.000000: LHS
+Thu Nov 19 16:21:05 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Thu Nov 19 16:21:05 2020  [DEBUG]: 150.000000: LHS
+Thu Nov 19 16:21:05 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Thu Nov 19 16:21:05 2020  [DEBUG]: 0.666667: LHS
+Thu Nov 19 16:56:47 2020  [DEBUG]: B4 T1 join:
+Thu Nov 19 16:56:47 2020  [INFO]: Starting subscriber.
+
+Thu Nov 19 16:56:47 2020  [INFO]: Starting:
+
+Thu Nov 19 16:56:47 2020  [INFO]: B4 Return all test;
+Thu Nov 19 16:56:47 2020  [INFO]: 192.168.43.144:5000
+Thu Nov 19 16:56:47 2020  [INFO]: 192.168.43.144 : 5100
+Thu Nov 19 16:56:47 2020  [DEBUG]: Came @ CSV_Test: 
+Thu Nov 19 16:56:47 2020  [DEBUG]: Reading CSV:
+Thu Nov 19 16:56:47 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Thu Nov 19 16:56:47 2020  [DEBUG]: 25.000000: LHS
+Thu Nov 19 16:56:47 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Thu Nov 19 16:56:47 2020  [DEBUG]: -5.000000: LHS
+Thu Nov 19 16:56:47 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Thu Nov 19 16:56:47 2020  [DEBUG]: 150.000000: LHS
+Thu Nov 19 16:56:47 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Thu Nov 19 16:56:47 2020  [DEBUG]: 0.666667: LHS
+Thu Nov 19 23:36:37 2020  [DEBUG]: B4 T1 join:
+Thu Nov 19 23:36:37 2020  [INFO]: Starting subscriber.
+
+Thu Nov 19 23:36:37 2020  [INFO]: Starting:
+
+Thu Nov 19 23:36:37 2020  [INFO]: B4 Return all test;
+Thu Nov 19 23:36:37 2020  [INFO]: 192.168.43.144:5000
+Thu Nov 19 23:36:37 2020  [INFO]: 192.168.43.144 : 5100
+Thu Nov 19 23:36:37 2020  [DEBUG]: Came @ CSV_Test: 
+Thu Nov 19 23:36:37 2020  [DEBUG]: Reading CSV:
+Thu Nov 19 23:36:37 2020  [DEBUG]: add double 10 15 : testcase to AUT
+Thu Nov 19 23:36:37 2020  [DEBUG]: 25.000000: LHS
+Thu Nov 19 23:36:37 2020  [DEBUG]: subtract double 10 15 : testcase to AUT
+Thu Nov 19 23:36:37 2020  [DEBUG]: -5.000000: LHS
+Thu Nov 19 23:36:37 2020  [DEBUG]: multiply double 10 15 : testcase to AUT
+Thu Nov 19 23:36:37 2020  [DEBUG]: 150.000000: LHS
+Thu Nov 19 23:36:37 2020  [DEBUG]: divide double 10 15 : testcase to AUT
+Thu Nov 19 23:36:37 2020  [DEBUG]: 0.666667: LHS
+Mon Nov 23 18:03:51 2020  [INFO]: Starting subscriber.
+
+Mon Nov 23 18:03:51 2020  [DEBUG]: B4 T1 join:
+Mon Nov 23 18:03:51 2020  [INFO]: Starting:
+
+Mon Nov 23 18:03:51 2020  [INFO]: B4 Return all test;
+Mon Nov 23 18:03:51 2020  [INFO]: 192.168.43.144 : 5100
+Mon Nov 23 18:03:51 2020  [INFO]: 192.168.43.144:5000
+Mon Nov 23 18:03:51 2020  [DEBUG]: Came @ CSV_Test: 
+Mon Nov 23 18:03:51 2020  [ERROR]:  cannot open : LOG_ERROR
+Mon Nov 23 18:03:51 2020  [DEBUG]: Reading CSV:
+Mon Nov 23 18:03:51 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:03:51 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:03:51 2020  [DEBUG]: Ending the main
+Mon Nov 23 18:19:29 2020  [DEBUG]: B4 T1 join:
+Mon Nov 23 18:19:29 2020  [INFO]: Starting subscriber.
+
+Mon Nov 23 18:19:29 2020  [INFO]: B4 Return all test;
+Mon Nov 23 18:19:29 2020  [INFO]: 192.168.43.144:5000
+Mon Nov 23 18:19:29 2020  [INFO]: Starting:
+
+Mon Nov 23 18:19:29 2020  [INFO]: 192.168.43.144 : 5100
+Mon Nov 23 18:19:29 2020  [DEBUG]: Came @ CSV_Test: 
+Mon Nov 23 18:19:29 2020  [ERROR]:  cannot open : LOG_ERROR
+Mon Nov 23 18:19:29 2020  [DEBUG]: Reading CSV:
+Mon Nov 23 18:19:29 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:19:29 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:19:29 2020  [DEBUG]: Ending the main
+Mon Nov 23 18:21:32 2020  [INFO]: Starting subscriber.
+
+Mon Nov 23 18:21:32 2020  [DEBUG]: B4 T1 join:
+Mon Nov 23 18:21:32 2020  [INFO]: B4 Return all test;
+Mon Nov 23 18:21:32 2020  [INFO]: 192.168.43.144:5000
+Mon Nov 23 18:21:32 2020  [DEBUG]: Came @ CSV_Test: 
+Mon Nov 23 18:21:32 2020  [ERROR]:  cannot open : LOG_ERROR
+Mon Nov 23 18:21:32 2020  [DEBUG]: Reading CSV:
+Mon Nov 23 18:21:32 2020  [INFO]: Starting:
+
+Mon Nov 23 18:21:32 2020  [INFO]: 192.168.43.144 : 5100
+Mon Nov 23 18:21:32 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:21:32 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:21:32 2020  [DEBUG]: Ending the main
+Mon Nov 23 18:25:18 2020  [INFO]: Starting subscriber.
+
+Mon Nov 23 18:25:18 2020  [DEBUG]: B4 T1 join:
+Mon Nov 23 18:25:18 2020  [INFO]: B4 Return all test;
+Mon Nov 23 18:25:18 2020  [INFO]: 192.168.43.144:5000
+Mon Nov 23 18:25:18 2020  [DEBUG]: Came @ CSV_Test: 
+Mon Nov 23 18:25:18 2020  [DEBUG]: Reading CSV:
+Mon Nov 23 18:25:18 2020  [DEBUG]: 1 add double 10 15 : testcase to AUT
+Mon Nov 23 18:25:18 2020  [DEBUG]: 25.000000: LHS
+Mon Nov 23 18:25:18 2020  [DEBUG]: 1 subtract double 10 15 : testcase to AUT
+Mon Nov 23 18:25:18 2020  [DEBUG]: -5.000000: LHS
+Mon Nov 23 18:25:18 2020  [DEBUG]: 1 multiply double 10 15 : testcase to AUT
+Mon Nov 23 18:25:18 2020  [DEBUG]: 150.000000: LHS
+Mon Nov 23 18:25:18 2020  [DEBUG]: 1 divide double 10 15 : testcase to AUT
+Mon Nov 23 18:25:18 2020  [DEBUG]: 0.666667: LHS
+Mon Nov 23 18:25:18 2020  [INFO]: Starting:
+
+Mon Nov 23 18:25:18 2020  [INFO]: 192.168.43.144 : 5100
+Mon Nov 23 18:25:22 2020  [INFO]: Subscriber matched.
+Mon Nov 23 18:25:30 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Mon Nov 23 18:25:30 2020  [INFO]: Message: 1 add double 10 15  with index: 1 SENT
+Mon Nov 23 18:25:31 2020  [INFO]: Message: 25.000000 with index: 1 RECEIVED.
+Mon Nov 23 18:25:31 2020  [INFO]: Message: 1 subtract double 10 15  with index: 2 SENT
+Mon Nov 23 18:25:32 2020  [INFO]: Message: -5.000000 with index: 2 RECEIVED.
+Mon Nov 23 18:25:32 2020  [INFO]: Message: 1 multiply double 10 15  with index: 3 SENT
+Mon Nov 23 18:25:33 2020  [INFO]: Message: 150.000000 with index: 3 RECEIVED.
+Mon Nov 23 18:25:33 2020  [INFO]: Message: 1 divide double 10 15  with index: 4 SENT
+Mon Nov 23 18:25:34 2020  [INFO]: Message: 0.666667 with index: 4 RECEIVED.
+Mon Nov 23 18:25:34 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:25:34 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:25:34 2020  [DEBUG]: Ending the main
+Mon Nov 23 18:29:02 2020  [DEBUG]: B4 T1 join:
+Mon Nov 23 18:29:02 2020  [INFO]: Starting:
+
+Mon Nov 23 18:29:02 2020  [INFO]: Starting subscriber.
+
+Mon Nov 23 18:29:02 2020  [INFO]: B4 Return all test;
+Mon Nov 23 18:29:02 2020  [INFO]: 192.168.43.144:5000
+Mon Nov 23 18:29:02 2020  [INFO]: 192.168.43.144 : 5100
+Mon Nov 23 18:29:02 2020  [DEBUG]: Came @ CSV_Test: 
+Mon Nov 23 18:29:02 2020  [DEBUG]: Reading CSV:
+Mon Nov 23 18:29:02 2020  [DEBUG]: 1 add double 10 15 : testcase to AUT
+Mon Nov 23 18:29:02 2020  [DEBUG]: 25.000000: LHS
+Mon Nov 23 18:29:02 2020  [DEBUG]: 1 subtract double 10 15 : testcase to AUT
+Mon Nov 23 18:29:02 2020  [DEBUG]: -5.000000: LHS
+Mon Nov 23 18:29:02 2020  [DEBUG]: 1 multiply double 10 15 : testcase to AUT
+Mon Nov 23 18:29:02 2020  [DEBUG]: 150.000000: LHS
+Mon Nov 23 18:29:02 2020  [DEBUG]: 1 divide double 10 15 : testcase to AUT
+Mon Nov 23 18:29:02 2020  [DEBUG]: 0.666667: LHS
+Mon Nov 23 18:29:02 2020  [INFO]: Subscriber matched.
+Mon Nov 23 18:29:02 2020  [INFO]: Message: 25.000000 with index: 1 RECEIVED.
+Mon Nov 23 18:29:02 2020  [INFO]: Message: -5.000000 with index: 2 RECEIVED.
+Mon Nov 23 18:29:02 2020  [INFO]: Message: 150.000000 with index: 3 RECEIVED.
+Mon Nov 23 18:29:02 2020  [INFO]: Message: 0.666667 with index: 4 RECEIVED.
+Mon Nov 23 18:29:03 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:29:03 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:29:03 2020  [DEBUG]: Ending the main
+Mon Nov 23 18:29:29 2020  [INFO]: Starting subscriber.
+
+Mon Nov 23 18:29:29 2020  [DEBUG]: B4 T1 join:
+Mon Nov 23 18:29:29 2020  [INFO]: B4 Return all test;
+Mon Nov 23 18:29:29 2020  [INFO]: 192.168.43.144:5000
+Mon Nov 23 18:29:29 2020  [DEBUG]: Came @ CSV_Test: 
+Mon Nov 23 18:29:29 2020  [DEBUG]: Reading CSV:
+Mon Nov 23 18:29:29 2020  [DEBUG]: 1 add double 10 15 : testcase to AUT
+Mon Nov 23 18:29:29 2020  [DEBUG]: 25.000000: LHS
+Mon Nov 23 18:29:29 2020  [DEBUG]: 1 subtract double 10 15 : testcase to AUT
+Mon Nov 23 18:29:29 2020  [DEBUG]: -5.000000: LHS
+Mon Nov 23 18:29:29 2020  [DEBUG]: 1 multiply double 10 15 : testcase to AUT
+Mon Nov 23 18:29:29 2020  [DEBUG]: 150.000000: LHS
+Mon Nov 23 18:29:29 2020  [DEBUG]: 1 divide double 10 15 : testcase to AUT
+Mon Nov 23 18:29:29 2020  [DEBUG]: 0.666667: LHS
+Mon Nov 23 18:29:29 2020  [INFO]: Starting:
+
+Mon Nov 23 18:29:29 2020  [INFO]: 192.168.43.144 : 5100
+Mon Nov 23 18:29:32 2020  [INFO]: Subscriber matched.
+Mon Nov 23 18:29:32 2020  [INFO]: Message: 25.000000 with index: 1 RECEIVED.
+Mon Nov 23 18:29:32 2020  [INFO]: Message: -5.000000 with index: 2 RECEIVED.
+Mon Nov 23 18:29:32 2020  [INFO]: Message: 150.000000 with index: 3 RECEIVED.
+Mon Nov 23 18:29:32 2020  [INFO]: Message: 0.666667 with index: 4 RECEIVED.
+Mon Nov 23 18:29:33 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:29:33 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:29:33 2020  [DEBUG]: Ending the main
+Mon Nov 23 18:30:34 2020  [INFO]: Starting subscriber.
+
+Mon Nov 23 18:30:34 2020  [DEBUG]: B4 T1 join:
+Mon Nov 23 18:30:34 2020  [INFO]: Starting:
+
+Mon Nov 23 18:30:34 2020  [INFO]: 192.168.43.144:5000
+Mon Nov 23 18:30:34 2020  [INFO]: B4 Return all test;
+Mon Nov 23 18:30:34 2020  [INFO]: 192.168.43.144 : 5100
+Mon Nov 23 18:30:34 2020  [DEBUG]: Came @ CSV_Test: 
+Mon Nov 23 18:30:34 2020  [ERROR]:  cannot open : LOG_ERROR
+Mon Nov 23 18:30:34 2020  [DEBUG]: Reading CSV:
+Mon Nov 23 18:30:34 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:30:34 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:30:34 2020  [DEBUG]: Ending the main
+Mon Nov 23 18:32:22 2020  [DEBUG]: B4 T1 join:
+Mon Nov 23 18:32:22 2020  [INFO]: Starting subscriber.
+
+Mon Nov 23 18:32:22 2020  [INFO]: B4 Return all test;
+Mon Nov 23 18:32:22 2020  [INFO]: 192.168.43.144:5000
+Mon Nov 23 18:32:22 2020  [DEBUG]: Came @ CSV_Test: 
+Mon Nov 23 18:32:22 2020  [DEBUG]: Reading CSV:
+Mon Nov 23 18:32:22 2020  [DEBUG]: 2 add int 2 float 35 double: testcase to AUT
+Mon Nov 23 18:32:22 2020  [DEBUG]: 37.000000: LHS
+Mon Nov 23 18:32:22 2020  [INFO]: Starting:
+
+Mon Nov 23 18:32:22 2020  [INFO]: 192.168.43.144 : 5100
+Mon Nov 23 18:32:27 2020  [INFO]: Subscriber matched.
+Mon Nov 23 18:32:27 2020  [INFO]: Message: 25.000000 with index: 1 RECEIVED.
+Mon Nov 23 18:32:27 2020  [INFO]: Message: -5.000000 with index: 2 RECEIVED.
+Mon Nov 23 18:32:27 2020  [INFO]: Message: 150.000000 with index: 3 RECEIVED.
+Mon Nov 23 18:32:27 2020  [INFO]: Message: 0.666667 with index: 4 RECEIVED.
+Mon Nov 23 18:32:28 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:32:28 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:32:28 2020  [DEBUG]: Ending the main
+Mon Nov 23 18:33:09 2020  [INFO]: Starting subscriber.
+
+Mon Nov 23 18:33:09 2020  [DEBUG]: B4 T1 join:
+Mon Nov 23 18:33:09 2020  [INFO]: Starting:
+
+Mon Nov 23 18:33:09 2020  [INFO]: B4 Return all test;
+Mon Nov 23 18:33:09 2020  [INFO]: 192.168.43.144:5000
+Mon Nov 23 18:33:09 2020  [INFO]: 192.168.43.144 : 5100
+Mon Nov 23 18:33:09 2020  [DEBUG]: Came @ CSV_Test: 
+Mon Nov 23 18:33:09 2020  [DEBUG]: Reading CSV:
+Mon Nov 23 18:33:09 2020  [DEBUG]: 2 add int 2 float 35 double: testcase to AUT
+Mon Nov 23 18:33:09 2020  [DEBUG]: 37.000000: LHS
+Mon Nov 23 18:33:11 2020  [INFO]: Subscriber matched.
+Mon Nov 23 18:33:20 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Mon Nov 23 18:33:21 2020  [INFO]: Message: 2 add int 2 float 35 double with index: 1 SENT
+Mon Nov 23 18:33:21 2020  [INFO]: Message: 37.000000 with index: 1 RECEIVED.
+Mon Nov 23 18:33:21 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:33:21 2020  [INFO]: B4 threads are joined
+Mon Nov 23 18:33:22 2020  [DEBUG]: Ending the main
+Tue Nov 24 11:25:22 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 11:25:22 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 11:25:23 2020  [INFO]: B4 Return all test;
+Tue Nov 24 11:25:23 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 11:25:23 2020  [INFO]: Starting:
+
+Tue Nov 24 11:25:23 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 11:25:23 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 11:25:23 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 11:25:23 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5 double: testcase to AUT
+Tue Nov 24 11:25:23 2020  [DEBUG]: 37.000000: LHS
+Tue Nov 24 11:25:23 2020  [DEBUG]: 2 patient_name int 2 float 3.5 float 4.5 float 6.5 double: testcase to AUT
+Tue Nov 24 11:25:23 2020  [DEBUG]: 37.000000: LHS
+Tue Nov 24 11:25:23 2020  [INFO]: Subscriber matched.
+Tue Nov 24 11:25:34 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Tue Nov 24 11:25:35 2020  [INFO]: Message: 2 add int 2 float 3.5 float 4.5 double with index: 1 SENT
+Tue Nov 24 11:25:35 2020  [INFO]: Message: Fail with index: 1 RECEIVED.
+Tue Nov 24 11:25:36 2020  [INFO]: B4 threads are joined
+Tue Nov 24 11:25:36 2020  [INFO]: B4 threads are joined
+Tue Nov 24 11:25:37 2020  [DEBUG]: Ending the main
+Tue Nov 24 12:11:48 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 12:11:48 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 12:11:48 2020  [INFO]: Starting:
+
+Tue Nov 24 12:11:48 2020  [INFO]: B4 Return all test;
+Tue Nov 24 12:11:48 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 12:11:48 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 12:11:48 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 12:11:48 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 12:11:48 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5 int: testcase to AUT
+Tue Nov 24 12:11:48 2020  [DEBUG]: 10.000012: LHS
+Tue Nov 24 12:14:07 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 12:14:07 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 12:14:07 2020  [INFO]: B4 Return all test;
+Tue Nov 24 12:14:07 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 12:14:07 2020  [INFO]: Starting:
+
+Tue Nov 24 12:14:07 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 12:14:07 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 12:14:07 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 12:14:07 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5 int: testcase to AUT
+Tue Nov 24 12:14:07 2020  [DEBUG]: 10.000012: LHS
+Tue Nov 24 12:15:18 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 12:15:18 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 12:15:18 2020  [INFO]: Starting:
+
+Tue Nov 24 12:15:18 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 12:15:18 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 12:15:18 2020  [INFO]: B4 Return all test;
+Tue Nov 24 12:15:18 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 12:15:18 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 12:15:18 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5 int: testcase to AUT
+Tue Nov 24 12:15:18 2020  [DEBUG]: 10.000012: LHS
+Tue Nov 24 12:17:14 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 12:17:14 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 12:17:14 2020  [INFO]: B4 Return all test;
+Tue Nov 24 12:17:14 2020  [INFO]: Starting:
+
+Tue Nov 24 12:17:14 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 12:17:14 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 12:17:14 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 12:17:14 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 12:17:14 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5 int: testcase to AUT
+Tue Nov 24 12:17:14 2020  [DEBUG]: 10.000012: LHS
+Tue Nov 24 12:17:14 2020  [DEBUG]: 2 add int 2 float 3.5 float 5.5 int: testcase to AUT
+Tue Nov 24 12:17:14 2020  [DEBUG]: 11.000012: LHS
+Tue Nov 24 12:17:14 2020  [DEBUG]: 2 add int 2 float 3.5 float 6.5 int: testcase to AUT
+Tue Nov 24 12:17:14 2020  [DEBUG]: 12.000012: LHS
+Tue Nov 24 12:17:14 2020  [DEBUG]: 2 add int 2 float 3.5 float 7.5 int: testcase to AUT
+Tue Nov 24 12:17:14 2020  [DEBUG]: 13.000012: LHS
+Tue Nov 24 12:17:14 2020  [DEBUG]: 2 add int 2 float 3.5 float 8.5 int: testcase to AUT
+Tue Nov 24 12:17:14 2020  [DEBUG]: 14.000012: LHS
+Tue Nov 24 13:03:11 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 13:03:11 2020  [INFO]: B4 Return all test;
+Tue Nov 24 13:03:11 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 13:03:11 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 13:03:11 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5: testcase to AUT
+Tue Nov 24 13:03:11 2020  [DEBUG]: int%10.000012: LHS
+Tue Nov 24 13:03:11 2020  [DEBUG]: 2 add int 2 float 3.5 float 5.5: testcase to AUT
+Tue Nov 24 13:03:11 2020  [DEBUG]: int%11.000012: LHS
+Tue Nov 24 13:03:11 2020  [DEBUG]: 2 add int 2 float 3.5 float 6.5: testcase to AUT
+Tue Nov 24 13:03:11 2020  [DEBUG]: int%12.000012: LHS
+Tue Nov 24 13:03:11 2020  [DEBUG]: 2 add int 2 float 3.5 float 7.5: testcase to AUT
+Tue Nov 24 13:03:11 2020  [DEBUG]: int%13.000012: LHS
+Tue Nov 24 13:03:11 2020  [DEBUG]: 2 add int 2 float 3.5 float 8.5: testcase to AUT
+Tue Nov 24 13:03:11 2020  [DEBUG]: int%14.000012: LHS
+Tue Nov 24 13:03:11 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 13:03:11 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 13:03:11 2020  [INFO]: Starting:
+
+Tue Nov 24 13:03:11 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 13:27:46 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 13:27:46 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 13:27:46 2020  [INFO]: Starting:
+
+Tue Nov 24 13:27:46 2020  [INFO]: B4 Return all test;
+Tue Nov 24 13:27:46 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 13:27:46 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 13:27:46 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 13:27:46 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 13:27:46 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5: testcase to AUT
+Tue Nov 24 13:27:46 2020  [DEBUG]: 10: LHS
+Tue Nov 24 13:27:46 2020  [DEBUG]: 2 add int 2 float 3.5 float 5.5: testcase to AUT
+Tue Nov 24 13:27:46 2020  [DEBUG]: 11: LHS
+Tue Nov 24 13:27:46 2020  [DEBUG]: 2 add int 2 float 3.5 float 6.5: testcase to AUT
+Tue Nov 24 13:27:46 2020  [DEBUG]: 12: LHS
+Tue Nov 24 13:27:46 2020  [DEBUG]: 2 add int 2 float 3.5 float 7.5: testcase to AUT
+Tue Nov 24 13:27:46 2020  [DEBUG]: 13: LHS
+Tue Nov 24 13:27:46 2020  [DEBUG]: 2 add int 2 float 3.5 float 8.5: testcase to AUT
+Tue Nov 24 13:27:46 2020  [DEBUG]: 14: LHS
+Tue Nov 24 13:35:05 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 13:35:05 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 13:35:05 2020  [INFO]: Starting:
+
+Tue Nov 24 13:35:05 2020  [INFO]: B4 Return all test;
+Tue Nov 24 13:35:05 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 13:35:05 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 13:35:05 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 13:35:05 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 13:35:05 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5: testcase to AUT
+Tue Nov 24 13:35:05 2020  [DEBUG]: 10.000012: LHS
+Tue Nov 24 13:35:05 2020  [DEBUG]: 2 add int 2 float 3.5 float 5.5: testcase to AUT
+Tue Nov 24 13:35:05 2020  [DEBUG]: 11: LHS
+Tue Nov 24 13:35:05 2020  [DEBUG]: 2 add int 2 float 3.5 float 6.5: testcase to AUT
+Tue Nov 24 13:35:05 2020  [DEBUG]: 12: LHS
+Tue Nov 24 13:35:05 2020  [DEBUG]: 2 add int 2 float 3.5 float 7.5: testcase to AUT
+Tue Nov 24 13:35:05 2020  [DEBUG]: 13: LHS
+Tue Nov 24 13:35:05 2020  [DEBUG]: 2 add int 2 float 3.5 float 8.5: testcase to AUT
+Tue Nov 24 13:35:05 2020  [DEBUG]: 14: LHS
+Tue Nov 24 13:41:09 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 13:41:09 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 13:41:09 2020  [INFO]: B4 Return all test;
+Tue Nov 24 13:41:09 2020  [INFO]: Starting:
+
+Tue Nov 24 13:41:09 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 13:41:09 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 13:41:09 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 13:41:09 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 13:41:09 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5: testcase to AUT
+Tue Nov 24 13:41:09 2020  [DEBUG]: 10.000012: LHS
+Tue Nov 24 13:41:09 2020  [DEBUG]: 2 add int 2 float 3.5 float 5.5: testcase to AUT
+Tue Nov 24 13:41:09 2020  [DEBUG]: 11: LHS
+Tue Nov 24 13:41:09 2020  [DEBUG]: 2 add int 2 float 3.5 float 6.5: testcase to AUT
+Tue Nov 24 13:41:09 2020  [DEBUG]: 12.000012: LHS
+Tue Nov 24 13:41:09 2020  [DEBUG]: 2 add int 2 float 3.5 float 7.5: testcase to AUT
+Tue Nov 24 13:41:09 2020  [DEBUG]: 13.000012: LHS
+Tue Nov 24 13:41:09 2020  [DEBUG]: 2 add int 2 float 3.5 float 8.5: testcase to AUT
+Tue Nov 24 13:41:09 2020  [DEBUG]: 14: LHS
+Tue Nov 24 13:43:49 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 13:43:49 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 13:43:49 2020  [INFO]: B4 Return all test;
+Tue Nov 24 13:43:49 2020  [INFO]: Starting:
+
+Tue Nov 24 13:43:49 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 13:43:49 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 13:43:49 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 13:43:49 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 13:43:49 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5: testcase to AUT
+Tue Nov 24 13:43:49 2020  [DEBUG]: 10.000012: LHS
+Tue Nov 24 13:43:49 2020  [DEBUG]: 2 add int 2 float 3.5 float 5.5: testcase to AUT
+Tue Nov 24 13:43:49 2020  [DEBUG]: 11: LHS
+Tue Nov 24 13:43:49 2020  [DEBUG]: 2 add int 2 float 3.5 float 6.5: testcase to AUT
+Tue Nov 24 13:43:49 2020  [DEBUG]: 12.000012: LHS
+Tue Nov 24 13:43:49 2020  [DEBUG]: 2 add int 2 float 3.5 float 7.5: testcase to AUT
+Tue Nov 24 13:43:49 2020  [DEBUG]: 13.000012: LHS
+Tue Nov 24 13:43:49 2020  [DEBUG]: 2 add int 2 float 3.5 float 8.5: testcase to AUT
+Tue Nov 24 13:43:49 2020  [DEBUG]: 14: LHS
+Tue Nov 24 13:46:17 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 13:46:17 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 13:46:17 2020  [INFO]: Starting:
+
+Tue Nov 24 13:46:17 2020  [INFO]: B4 Return all test;
+Tue Nov 24 13:46:17 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 13:46:17 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 13:46:17 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 13:46:17 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 13:46:17 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5: testcase to AUT
+Tue Nov 24 13:46:17 2020  [DEBUG]: 10.000012: LHS
+Tue Nov 24 13:46:17 2020  [DEBUG]: 2 add int 2 float 3.5 float 5.5: testcase to AUT
+Tue Nov 24 13:46:17 2020  [DEBUG]: 11: LHS
+Tue Nov 24 13:46:17 2020  [DEBUG]: 2 add int 2 float 3.5 float 6.5: testcase to AUT
+Tue Nov 24 13:46:17 2020  [DEBUG]: 12.000012: LHS
+Tue Nov 24 13:46:17 2020  [DEBUG]: 2 add int 2 float 3.5 float 7.5: testcase to AUT
+Tue Nov 24 13:46:17 2020  [DEBUG]: 13.000012: LHS
+Tue Nov 24 13:46:17 2020  [DEBUG]: 2 add int 2 float 3.5 float 8.5: testcase to AUT
+Tue Nov 24 13:46:17 2020  [DEBUG]: 14: LHS
+Tue Nov 24 13:46:44 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Tue Nov 24 13:46:44 2020  [INFO]: Message: 2 add int 2 float 3.5 float 4.5 with index: 1 SENT
+Tue Nov 24 13:46:55 2020  [INFO]: Subscriber matched.
+Tue Nov 24 13:46:56 2020  [INFO]: Message: Fail with index: 1 RECEIVED.
+Tue Nov 24 13:46:56 2020  [INFO]: B4 threads are joined
+Tue Nov 24 13:46:56 2020  [INFO]: B4 threads are joined
+Tue Nov 24 13:50:06 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 13:50:06 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 13:50:06 2020  [INFO]: Starting:
+
+Tue Nov 24 13:50:06 2020  [INFO]: B4 Return all test;
+Tue Nov 24 13:50:06 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 13:50:06 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 13:50:06 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 13:50:06 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 13:50:06 2020  [DEBUG]: 2 add int 2 float 3.5 float 4.5: testcase to AUT
+Tue Nov 24 13:50:06 2020  [DEBUG]: 10.000000: LHS
+Tue Nov 24 13:50:06 2020  [DEBUG]: 2 add int 2 float 3.5 float 5.5: testcase to AUT
+Tue Nov 24 13:50:06 2020  [DEBUG]: 11.000000: LHS
+Tue Nov 24 13:50:06 2020  [DEBUG]: 2 add int 2 float 3.5 float 6.5: testcase to AUT
+Tue Nov 24 13:50:06 2020  [DEBUG]: 12.000000: LHS
+Tue Nov 24 13:50:06 2020  [DEBUG]: 2 add int 2 float 3.5 float 7.5: testcase to AUT
+Tue Nov 24 13:50:06 2020  [DEBUG]: 13.000000: LHS
+Tue Nov 24 13:50:06 2020  [DEBUG]: 2 add int 2 float 3.5 float 8.5: testcase to AUT
+Tue Nov 24 13:50:06 2020  [DEBUG]: 14.000000: LHS
+Tue Nov 24 13:50:21 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Tue Nov 24 13:50:22 2020  [INFO]: Message: 2 add int 2 float 3.5 float 4.5 with index: 1 SENT
+Tue Nov 24 13:50:29 2020  [INFO]: Subscriber matched.
+Tue Nov 24 13:50:30 2020  [INFO]: Message: Fail with index: 1 RECEIVED.
+Tue Nov 24 13:50:30 2020  [INFO]: B4 threads are joined
+Tue Nov 24 13:50:30 2020  [INFO]: B4 threads are joined
+Tue Nov 24 13:51:48 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 13:51:48 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 13:51:48 2020  [INFO]: Starting:
+
+Tue Nov 24 13:51:48 2020  [INFO]: B4 Return all test;
+Tue Nov 24 13:51:48 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 13:51:48 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 13:51:48 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 13:51:48 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 13:51:48 2020  [DEBUG]: 2 add int 2 float 3.5: testcase to AUT
+Tue Nov 24 13:51:48 2020  [DEBUG]: 5.500000: LHS
+Tue Nov 24 13:51:48 2020  [DEBUG]: 2 add int 2 float 3.5 float 5.5: testcase to AUT
+Tue Nov 24 13:51:48 2020  [DEBUG]: 11.000000: LHS
+Tue Nov 24 13:51:48 2020  [DEBUG]: 2 add int 2 float 3.5 float 6.5: testcase to AUT
+Tue Nov 24 13:51:48 2020  [DEBUG]: 12.000000: LHS
+Tue Nov 24 13:51:48 2020  [DEBUG]: 2 add int 2 float 3.5 float 7.5: testcase to AUT
+Tue Nov 24 13:51:48 2020  [DEBUG]: 13.000000: LHS
+Tue Nov 24 13:51:48 2020  [DEBUG]: 2 add int 2 float 3.5 float 8.5: testcase to AUT
+Tue Nov 24 13:51:48 2020  [DEBUG]: 14.000000: LHS
+Tue Nov 24 13:51:58 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Tue Nov 24 13:51:59 2020  [INFO]: Message: 2 add int 2 float 3.5 with index: 1 SENT
+Tue Nov 24 13:52:04 2020  [INFO]: Subscriber matched.
+Tue Nov 24 13:52:05 2020  [INFO]: Message: 5.500000 with index: 1 RECEIVED.
+Tue Nov 24 13:52:05 2020  [INFO]: Message: 2 add int 2 float 3.5 float 5.5 with index: 2 SENT
+Tue Nov 24 13:52:06 2020  [INFO]: Message: Fail with index: 2 RECEIVED.
+Tue Nov 24 13:52:06 2020  [INFO]: B4 threads are joined
+Tue Nov 24 13:52:06 2020  [INFO]: B4 threads are joined
+Tue Nov 24 13:55:44 2020  [DEBUG]: B4 T1 join:
+Tue Nov 24 13:55:44 2020  [INFO]: Starting subscriber.
+
+Tue Nov 24 13:55:44 2020  [INFO]: B4 Return all test;
+Tue Nov 24 13:55:44 2020  [INFO]: 192.168.43.144:5000
+Tue Nov 24 13:55:44 2020  [DEBUG]: Came @ CSV_Test: 
+Tue Nov 24 13:55:44 2020  [DEBUG]: Reading CSV:
+Tue Nov 24 13:55:44 2020  [DEBUG]: 2 add int 2 float 3.5: testcase to AUT
+Tue Nov 24 13:55:44 2020  [DEBUG]: 5.500000: LHS
+Tue Nov 24 13:55:44 2020  [DEBUG]: 2 add int 2 float 4.5: testcase to AUT
+Tue Nov 24 13:55:44 2020  [DEBUG]: 6.500000: LHS
+Tue Nov 24 13:55:44 2020  [DEBUG]: 2 add int 2 float 5.5: testcase to AUT
+Tue Nov 24 13:55:44 2020  [DEBUG]: 7.500000: LHS
+Tue Nov 24 13:55:44 2020  [DEBUG]: 2 add int 2 float 6.5: testcase to AUT
+Tue Nov 24 13:55:44 2020  [DEBUG]: 8.500000: LHS
+Tue Nov 24 13:55:44 2020  [DEBUG]: 2 add int 2 float 7.5: testcase to AUT
+Tue Nov 24 13:55:44 2020  [DEBUG]: 9.500000: LHS
+Tue Nov 24 13:55:44 2020  [INFO]: Starting:
+
+Tue Nov 24 13:55:44 2020  [INFO]: 192.168.43.144 : 5100
+Tue Nov 24 13:56:00 2020  [INFO]: Publisher matched.: LOG_INFO
+
+Tue Nov 24 13:56:00 2020  [INFO]: Message: 2 add int 2 float 3.5 with index: 1 SENT
+Tue Nov 24 13:56:08 2020  [INFO]: Subscriber matched.
+Tue Nov 24 13:56:09 2020  [INFO]: Message: 5.500000 with index: 1 RECEIVED.
+Tue Nov 24 13:56:09 2020  [INFO]: Message: 2 add int 2 float 4.5 with index: 2 SENT
+Tue Nov 24 13:56:10 2020  [INFO]: Message: 6.500000 with index: 2 RECEIVED.
+Tue Nov 24 13:56:10 2020  [INFO]: Message: 2 add int 2 float 5.5 with index: 3 SENT
+Tue Nov 24 13:56:11 2020  [INFO]: Message: 7.500000 with index: 3 RECEIVED.
+Tue Nov 24 13:56:11 2020  [INFO]: Message: 2 add int 2 float 6.5 with index: 4 SENT
+Tue Nov 24 13:56:12 2020  [INFO]: Message: 8.500000 with index: 4 RECEIVED.
+Tue Nov 24 13:56:12 2020  [INFO]: Message: 2 add int 2 float 7.5 with index: 5 SENT
+Tue Nov 24 13:56:13 2020  [INFO]: Message: 9.500000 with index: 5 RECEIVED.
+Tue Nov 24 13:56:13 2020  [INFO]: B4 threads are joined
+Tue Nov 24 13:56:13 2020  [INFO]: B4 threads are joined
