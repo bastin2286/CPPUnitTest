@@ -1,0 +1,121 @@
+pipeline 
+{
+    agent none
+    stages 
+    {
+        stage('SCM Poll') 
+        {
+            agent any
+            steps 
+            {  
+                sh '''ssh \'318356@10.10.196.129\' /home/testVolume/copy_del.sh'''
+                checkout([$class: 'GitSCM', 
+				branches: [[name: "origin/master"]], 
+				userRemoteConfigs: [[
+                url: 'https://github.com/nandunarayanan/dockerJenkins.git']]
+				])
+				sh '''ls -la'''
+				sh '''pwd'''
+                sh '''ssh \'318356@10.10.196.129\' docker volume create volBuild'''
+                sh '''ssh \'318356@10.10.196.129\'  ssh \'853420@10.10.196.130\' docker volume create volAUT'''
+            }
+        }
+        
+        stage('BuildManager')
+        {   
+            agent any
+            steps
+            {
+                
+                sh '''ssh \'318356@10.10.196.129\' /home/testVolume/copy_vol.sh'''
+               sh '''ssh \'318356@10.10.196.129\' docker pull localhost:5000/buildmanager_cpp:v1'''
+               
+              // sh '''ssh \'318356@10.10.196.129\' docker pull localhost:5000/autbuild:v1'''
+              // sh '''ssh \'318356@10.10.196.129\' docker pull localhost:5000/gtestbuild:v1'''
+               /*
+                sh '''ssh \'318356@10.10.196.129\' docker run -d --name buildManager -v volBuild:/src localhost:5000/buildmanager:v12'''
+                sh '''ssh \'318356@10.10.196.129\' docker run -d --name autBuild --volumes-from buildManager localhost:5000/autbuild:v1'''
+                sh '''ssh \'318356@10.10.196.129\' docker run -d --name gtestBuild --volumes-from buildManager localhost:5000/gtestbuild:v1'''
+               
+               */
+               //sh 'sleep 55'
+                sh '''ssh \'318356@10.10.196.129\' docker run --name buildManager_cpp -v volBuild:/src localhost:5000/buildmanager_cpp:v1'''
+               //sh '''ssh \'318356@10.10.196.129\' docker run --name autBuild --volumes-from buildManager localhost:5000/autbuild:v1'''
+               //sh '''ssh \'318356@10.10.196.129\' docker run --name gtestBuild --volumes-from buildManager localhost:5000/gtestbuild:v1'''
+               
+                sh '''ssh \'318356@10.10.196.129\' /home/testVolume/copy.sh'''
+            }
+        }
+        
+        
+        stage('AUT Runner[Deployment & Execution]')
+        {   
+            agent any
+            steps
+            {
+                //sh '''ssh \'318356@10.10.196.129\' echo Google@2020 | sudo -S cp /nfs/home/testVolume/AUT_Exec /var/lib/docker/volumes/volAUT/_data/'''
+               
+                sh '''ssh \'318356@10.10.196.129\' ssh \'853420@10.10.196.130\' /nfs/home/testVolume/copy_130.sh'''
+                sh '''ssh \'318356@10.10.196.129\' ssh \'853420@10.10.196.130\' docker pull 10.10.196.129:5000/aut_cpp:v1'''
+                /*
+                sh '''ssh \'318356@10.10.196.129\' ssh \'853420@10.10.196.130\' docker run -d -it -p 10.10.196.130:5100:5100 --name aut -v volAUT:/src 10.10.196.129:5000/aut:v5'''
+                */
+                sh '''ssh \'318356@10.10.196.129\' ssh \'853420@10.10.196.130\' docker run -d -it -p 10.10.196.130:5100:5100 --name aut_cpp -v volAUT:/src 10.10.196.129:5000/aut_cpp:v1'''
+            }
+        }
+        
+        stage('TestRunner[Deployment & Execution]')
+        {   
+            agent any
+            steps
+            {
+                sh '''ssh \'318356@10.10.196.129\' docker pull localhost:5000/testrunner_cpp:v2'''
+                //sh '''ssh \'318356@10.10.196.129\' docker run -d -it -p 10.10.196.129:5100:5100 --name testRunner --volumes-from buildManager localhost:5000/testrunner:v10'''
+                sh '''ssh \'318356@10.10.196.129\' docker run -p 10.10.196.129:5100:5100 --name testRunner_cpp --volumes-from buildManager_cpp localhost:5000/testrunner_cpp:v2'''
+                //sh '''ssh \'318356@10.10.196.129\' ssh \'853420@10.10.196.130\' docker pull localhost:5000/853420/alpine_318356:v1'''
+            }
+        }
+        
+        stage('Publishing Results')
+        {   
+            agent any
+            steps
+            {
+                //sh 'sleep 50'
+                sh '''ssh \'318356@10.10.196.129\' /home/testVolume/copy_xml.sh'''
+                xunit([GoogleTest(deleteOutputFiles:true,failIfNotNew:true,pattern:'Gtest*.xml',skipNoTestFile:false,stopProcessingIfError:true)])
+            }
+        }
+        
+        stage('Clearing Active Containers')
+        {   
+            agent any
+            steps
+            {
+                sh ''' echo "Test"'''
+               
+              sh '''ssh \'318356@10.10.196.129\' ssh \'853420@10.10.196.130\' docker stop aut_cpp'''
+                sh '''ssh \'318356@10.10.196.129\' ssh \'853420@10.10.196.130\' docker rm aut_cpp'''
+            
+                sh '''ssh \'318356@10.10.196.129\' docker stop testRunner_cpp'''
+                sh '''ssh \'318356@10.10.196.129\' docker rm testRunner_cpp'''
+                
+                /*
+                sh '''ssh \'318356@10.10.196.129\' docker stop gtestBuild'''
+                sh '''ssh \'318356@10.10.196.129\' docker rm gtestBuild'''
+                
+                
+                sh '''ssh \'318356@10.10.196.129\' docker stop autBuild'''
+                sh '''ssh \'318356@10.10.196.129\' docker rm autBuild'''
+               */ 
+               
+                sh '''ssh \'318356@10.10.196.129\' docker stop buildManager_cpp'''
+                sh '''ssh \'318356@10.10.196.129\' docker rm buildManager_cpp'''
+                
+                sh '''ssh \'318356@10.10.196.129\' docker volume rm volBuild'''
+                
+                sh '''ssh \'318356@10.10.196.129\'  ssh \'853420@10.10.196.130\' docker volume rm volAUT'''
+            }
+        }
+    }
+}

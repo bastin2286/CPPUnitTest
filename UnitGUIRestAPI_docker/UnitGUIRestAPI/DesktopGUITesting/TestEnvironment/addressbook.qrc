@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/editadd.png</file>
+    <file>images/editdelete.png</file>
+    <file>images/filenew.png</file>
+    <file>images/fileopen.png</file>
+    <file>images/filequit.png</file>
+    <file>images/filesave.png</file>
+    <file>images/filesaveas.png</file>
+    <file alias="addressbook_de">translations/addressbook_de.qm</file>
+    <file alias="addressbook_fr">translations/addressbook_fr.qm</file>
+    <file alias="qt_de">translations/qt_de.qm</file>
+    <file alias="qt_fr">translations/qt_fr.qm</file>
+</qresource>
+</RCC>
